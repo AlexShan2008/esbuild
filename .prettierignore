@@ -1,0 +1,10 @@
+# Ignore all autogenertated files
+**/*.css.d.ts
+**/*.scss.d.ts
+
+# Ignore artifacts:
+build
+coverage
+
+# Ignore all HTML files:
+*.html
